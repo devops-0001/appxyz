@@ -6,7 +6,7 @@ metadata:
     app: appxyz
   name: appxyz
 spec:
-  replicas: 6
+  replicas: 4
   selector:
     matchLabels:
       app: appxyz
